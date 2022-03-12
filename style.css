@@ -1,0 +1,44 @@
+header{
+    height: 100px;
+    background-color:burlywood;
+    border-radius: 10px;
+
+}
+
+body{
+    width: 800px;
+    background-color: black;
+    margin: 25px auto;
+
+}
+
+header h1{
+    font-family: Verdana;
+    font-style: italic;
+    padding-left: 50px;
+    color: white;
+    font-size: 30pt;
+    text-shadow: black 10px 10px 4px
+
+    
+}
+
+header h2{
+    font-family: verdana;
+    font-style: italic;
+    color: white;
+    font-size: 16pt;
+    padding-left: 480px;
+    text-shadow: black 10px 10px 4px
+}
+
+nav li{
+    display: inline;
+    margin-right: 40px;
+    background-color: darkgoldenrod;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: tan 3px;
+}
